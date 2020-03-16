@@ -49,7 +49,7 @@ public class Fraction {
             b = Math.abs(this.counter);
         }
         int bnew;
-        while(b >= 1)
+        while(b > 1)
         {
             bnew = a % b;
             a = b;

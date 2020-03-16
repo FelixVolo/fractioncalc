@@ -6,9 +6,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import model.Fraction;
 
-import javax.print.DocFlavor;
 import java.util.Random;
-import java.util.ResourceBundle;
 
 public class Fractionuicontroller {
 
