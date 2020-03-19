@@ -12,5 +12,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="com.aquafx-project:aquafx:0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.aquafx-project:aquafx:0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.guigarage:stylemanager:0.1b2" level="project" />
   </component>
 </module>
