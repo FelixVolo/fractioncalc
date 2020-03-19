@@ -16,22 +16,11 @@ public class Fraction {
         return decimal;
     }
 
-    public boolean equals(Fraction other)
-    {
-        if (this.decimal == other.getDecimal())
-        {
-           return true;
-        }
-        return false;
-    }
+    public boolean equals(Fraction other) { return this.decimal == other.getDecimal(); }
 
-    public int getCounter() {
-        return counter;
-    }
+    public int getCounter() { return counter; }
 
-    public int getNumerator() {
-        return numerator;
-    }
+    public int getNumerator() { return numerator; }
 
     //Euklid algorithm
     public Fraction reduce()
